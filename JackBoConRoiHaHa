@@ -2,7 +2,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Nah-Roblox #Nahz Hub Script",
+         Title = "Nah Hub Script",
          Animation = "Youtube:@NahIdWin1hehe"
          },
         Key = {
@@ -33,7 +33,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
      local Tab1o = MakeTab({Name = "Script BloxFruit"})
      local Tab2o = MakeTab({Name = "Script DeadRails"})
      local Tab3o = MakeTab({Name = "Script Fun"})
-     local Tab4o = MakeTav({Name = "Other My Script"})
+     local Tab4o = MakeTab({Name = " Other My Script"})
 ------- BUTTON
     
     AddButton(Tab1o, {

@@ -74,3 +74,16 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
   end
   })
+     AddButton(Tab1o, {
+     Name = "Min hub",
+    Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinAV"))()
+  end
+  })
+    AddButton(Tab1o, {
+     Name = "Teddy Hub",
+    Callback = function()
+repeat task.wait() until game:IsLoaded() and game:GetService("Players") and game.Players.LocalPlayer and game.Players.LocalPlayer:FindFirstChild("PlayerGui")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDYHUB-FREEMIUM"))()
+  end
+  })

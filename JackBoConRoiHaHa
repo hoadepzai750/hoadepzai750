@@ -88,8 +88,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepza
   end
   })
      AddButton(Tab5o, {
-     Name = "Reset Script",
+     Name = "Close Script",
     Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hoadepzai750/hoadepzai750/refs/heads/main/JackBoConRoiHaHa"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/hoadepzai750/hoadepzai750/refs/heads/main/JackBoConRoiHaHa"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoadepzai750/hoadepzai750/refs/heads/main/JackBoConRoiHaHa"))()
   end
   })

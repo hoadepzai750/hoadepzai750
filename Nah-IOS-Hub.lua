@@ -1,4 +1,4 @@
--- https://discord.gg/t673vZvkRf
+-- discord.gg/t673vZvkRf
 
 
 shared.LoaderTitle = "Sub @NahIdWin1hehe";

@@ -93,3 +93,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepza
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hoadepzai750/hoadepzai750/refs/heads/main/JackBoConRoiHaHa"))()
   end
   })
+     AddButton(Tab3o, {
+     Name = "Infinity Jump",
+    Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoadepzai750/hoadepzai750/refs/heads/main/Infinity-Jump"))()
+  end
+  })
+     AddButton(Tab1o, {
+     Name = "Nah IOS Hub Farm",
+    Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoadepzai750/hoadepzai750/refs/heads/main/Nah-IOS-Hub.lua"))()
+  end
+  })

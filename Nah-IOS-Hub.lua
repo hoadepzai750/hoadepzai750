@@ -1,7 +1,7 @@
--- discord.gg/tboyroblox
+-- https://discord.gg/t673vZvkRf
 
 
-shared.LoaderTitle = "Đăng Ký Kênh Nah";
+shared.LoaderTitle = "Sub @NahIdWin1hehe";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
